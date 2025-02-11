@@ -44,8 +44,6 @@ Predictive modeling for pricing trends.
 
 Sentiment analysis of guest reviews.
 
-Real-time Airbnb API integration.
-
 Conclusion
 
 This project offers valuable insights for hosts, travelers, and policymakers on Airbnb trends in Seattle.
